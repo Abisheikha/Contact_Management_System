@@ -1,4 +1,4 @@
-/*Contact management system*/
+/*Contact management system */
 
 #include<stdio.h>
 #include<stdlib.h>
